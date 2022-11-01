@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Menu Dessert</string>
+
+        <string-array name="makanan">
+            <item>Sandwich</item>
+            <item>Mango Sticky Rice</item>
+            <item>Grass Jelly Dessert</item>
+            <item>Salad Buah</item>
+            <item>Pudding Buah</item>
+            <item>Yogurt Bark</item>
+            <item>Smoothie Bowl</item>
+        </string-array>
+        <string-array name="star">
+            <item>4.5</item>
+            <item>4.7</item>
+            <item>4.4</item>
+            <item>4.9</item>
+            <item>4.7</item>
+            <item>4.4</item>
+            <item>4.9</item>
+        </string-array>
+        <string-array name="deskripsi">
+            <item>Rp. 25.000</item>
+            <item>Rp. 35.000</item>
+            <item>Rp. 30.000</item>
+            <item>Rp. 25.000</item>
+            <item>Rp. 35.000</item>
+            <item>Rp. 30.000</item>
+            <item>Rp. 45.000</item>
+        </string-array>
+    </resources>
+
